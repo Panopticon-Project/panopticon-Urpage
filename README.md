@@ -15,3 +15,5 @@ https://www.bellingcat.com/resources/case-studies/2017/10/27/bahamut-revisited-c
 https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/report-spark-bahamut.pdf
 
 https://www.securityweek.com/smoke-and-mirrors-hack-hire-group-builds-fake-online-empire
+
+https://www.welivesecurity.com/2022/11/23/bahamut-cybermercenary-group-targets-android-users-fake-vpn-apps/
